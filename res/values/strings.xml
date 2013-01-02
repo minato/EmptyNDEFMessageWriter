@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ENAMEL</string>
+    <string name="write_OK_msg">Write empty NDEF message.</string>
+    <string name="write_NG_msg">Write error.</string>
+    <string name="unsupported_tag_msg">Unsupport tag.</string>
+    
+</resources>

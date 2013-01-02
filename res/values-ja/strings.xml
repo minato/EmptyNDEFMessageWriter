@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">エナメル</string>
+    <string name="write_OK_msg">NDEFメッセージ書き込み完了</string>
+    <string name="write_NG_msg">NDEFメッセージ書き込み失敗</string>
+    <string name="unsupported_tag_msg">非対応タグです</string>
+        
+</resources>
